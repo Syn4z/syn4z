@@ -29,12 +29,12 @@
         <tr>
           <th>Flask</th>
           <th>NestJS</th>
-          <th>Dot.Net</th>
+          <th>.NET</th>
         </tr>
         <tr>
           <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/></p></td>
           <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="55" height="55"/></p></td>
-          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dot.Net" alt="Dot.Net" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="55" height="55"/></p></td>
         </tr>
       </table>
     </td>
