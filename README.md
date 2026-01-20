@@ -1,6 +1,6 @@
 # Hi, I'm Sorin Iațco 👨🏻‍💻
 
--🖥️ I've been coding in Python for more than 4 years. 
+-🖥️ I've been developing software for more than 5 years. 
 
 -📰 You can find more details on my [LinkedIn Profile](https://www.linkedin.com/in/sorin-ia%C8%9Bco-0729a4251/).
 
@@ -12,14 +12,9 @@
       <h3>Languages:</h3>
       <table>
         <tr>
-          <th>Python</th>
-          <th>JavaScript</th>
-          <th>C#</th>
-        </tr>
-        <tr>
           <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></p></td>
           <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></p></td>
-          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></p></td>
         </tr>
       </table>
     </td>
@@ -27,12 +22,12 @@
       <h3>Frameworks:</h3>
       <table>
         <tr>
-          <th>Flask</th>
+          <th>FastAPI</th>
           <th>NestJS</th>
           <th>.NET</th>
         </tr>
         <tr>
-          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/></p></td>
           <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="55" height="55"/></p></td>
           <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="55" height="55"/></p></td>
         </tr>
@@ -75,3 +70,23 @@
     </td>
   </tr>
 </table>
+
+## IoT & Embedded Systems
+
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/></p></td>
+          <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="55" height="55"/></p></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
